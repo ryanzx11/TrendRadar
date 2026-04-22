@@ -326,8 +326,8 @@ notification:
       msg_type: "markdown"            # 消息类型：markdown(群机器人) | text(个人微信应用)
 
     telegram:
-      bot_token: ""                   # Telegram Bot Token
-      chat_id: ""                     # Telegram Chat ID
+      bot_token: "8627623558:AAF1LIas1W8575qUcn5lvAHLv961jvJr5P4"                   # Telegram Bot Token
+      chat_id: "8661490465"                     # Telegram Chat ID
 
     email:
       from: ""                        # 发件人邮箱地址
